@@ -7,6 +7,8 @@ For the OpenSource Code
 
 Feel Free to edit the files for personal use, If you want to re-publish any of these files in your own mod, please give me credit. If you intend on using over 60% of the files, please contact me on CurseForge here, my username is Pigling
 
+This mod was created in MCreator version 2024.2, although with a bit of work you should be able to edit these files in another editor
+
 The MIT licence applies for all parts of this software except in express exceptions listed above
 
 Copyright <YEAR> PigLing
